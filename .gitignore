@@ -1,0 +1,11 @@
+/Binaries
+/Build
+/Intermediate
+/Config
+/Saved
+*.pdb
+*.opensdf
+*.sdf
+*.sln
+*.suo
+
